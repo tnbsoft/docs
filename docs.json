@@ -25,7 +25,11 @@
           {
             "group": "주요기능",
             "pages": [
-              "service/cms"
+              "service/cms",
+              "service/card",
+              "service/giro",
+              "service/opengiro",
+              "service/vaccount"
             ]
           }
         ]
