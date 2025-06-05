@@ -16,7 +16,10 @@
           {
             "group": "주요제품",
             "pages": [
-              "pkg/tpro"
+              "pkg/tpro",
+              "pkg/twater",
+              "pkg/tcms",
+              "pkg/tagent"
             ]
           },
           {
