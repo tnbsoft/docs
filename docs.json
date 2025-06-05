@@ -38,7 +38,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Company",
+          "anchor": "TNBSOFT",
           "href": "http://ops.tnbsoft.co.kr",
           "icon": "book-open-cover"
         },
@@ -51,8 +51,8 @@
     }
   },
   "logo": {
-    "light": "tnb_logo.png",
-    "dark": "tnb_logo.png"
+    "light": "logo/tnb_logo.png",
+    "dark": "logo/tnb_logo.png"
   },
   "navbar": {
     "links": [
